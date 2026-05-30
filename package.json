@@ -1,5 +1,5 @@
 {
-  "name": "MarkDownPAPER",
+  "name": "neural_motion_blending",
   "private": true,
   "type": "module",
   "workspaces": ["md-paper"],
