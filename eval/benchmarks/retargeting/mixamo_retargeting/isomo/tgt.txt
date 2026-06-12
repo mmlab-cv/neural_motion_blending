@@ -1,0 +1,904 @@
+Aj_Baseball Pitching_3733
+Aj_Box Turn_4065
+Aj_Braced Hang Hop Up_4172
+Aj_Catwalk Idle To Walk Forward_4037
+Aj_Catwalk Twist R To Walk 180_3002
+Aj_Catwalk Walk_3979
+Aj_Catwalk Walk_3980
+Aj_Catwalk Walk_3981
+Aj_Catwalk Walk Forward Arc 90L_4708
+Aj_Catwalk Walk Start Turn 180 Right_2990
+Aj_Combo Punch_4078
+Aj_Dancing Running Man_3293
+Aj_Dancing Running Man_3294
+Aj_Defeat Idle_3203
+Aj_Defeat Idle(1)_3319
+Aj_Disappointed_3459
+Aj_Drunk Idle_3992
+Aj_Dual Weapon Combo_3252
+Aj_End Plank_4142
+Aj_Fall B Loop_4662
+Aj_Female Standing Pose_4784
+Aj_Football Stance_2975
+Aj_Freehang Drop_3328
+Aj_Getting Thrown_2888
+Aj_Golf Post Shot_3767
+Aj_Golf Post Shot_3768
+Aj_Great Sword Idle_4626
+Aj_Hit On Legs_4022
+Aj_Hit Reaction_3394
+Aj_Illegal Elbow Punch_3007
+Aj_Injured Stumble Idle_4634
+Aj_Injured Walk Left Turn_3498
+Aj_Jazz Dancing_2942
+Aj_Jumping_3842
+Aj_Kick Up Soccerball_4166
+Aj_Laying Mild Cough_4640
+Aj_Leaning_4289
+Aj_Male Action Pose_2695
+Aj_Male Sitting Pose_4070
+Aj_Male Sitting Pose(1)_3703
+Aj_Male Sitting Pose(2)_2869
+Aj_Male Standing Pose_3138
+Aj_Male Standing Pose(1)_4105
+Aj_Medium Hit To Head_3707
+Aj_Military Signaling_4718
+Aj_Pistol Run Backward Arc_2813
+Aj_Pistol Walk Backward Arc_3287
+Aj_Pointing_4705
+Aj_Praying_4461
+Aj_Quick Steps_4267
+Aj_Ready Idle_3254
+Aj_Rejected_4727
+Aj_Rifle Block_3873
+Aj_Rifle Turn_4156
+Aj_Run Arc Left_4260
+Aj_Running_3199
+Aj_Running Slide_4488
+Aj_Sitting Yell_4427
+Aj_Standing 1H Magic Attack 01_3976
+Aj_Standing 2H Magic Area Attack 02_3636
+Aj_Standing Death Right 01_3823
+Aj_Standing Disarm Underarm_3302
+Aj_Standing Draw Arrow_3608
+Aj_Standing Equip Bow_3165
+Aj_Standing Idle 04_4428
+Aj_Standing Land To Standing Idle_3257
+Aj_Standing Melee Attack 360 High_3908
+Aj_Standing Melee Attack Backhand_3370
+Aj_Standing Melee Combo Attack Ver. 2_3927
+Aj_Standing React Large From Left_3974
+Aj_Standing React Large From Left(1)_2982
+Aj_Standing React Small From Right_3897
+Aj_Standing To Crouch_3445
+Aj_Standing Torch Idle 02_4631
+Aj_Standing Torch Idle 02_4632
+Aj_Standing Torch Idle 04_3573
+Aj_Standing Torch Melee Attack 03_2799
+Aj_Standing Torch Turn Left 90_2889
+Aj_Standing Turn Right 90_3520
+Aj_Standing Yell_4285
+Aj_Stroke Nodding_3023
+Aj_Taking A Pill_3618
+Aj_Turn 90 Left_3463
+Aj_Unarmed Turn Right 90_3565
+Aj_Wheelbarrow Walk Turn_3568
+Aj_Zombie Stand Up_4486
+Aj_Box Turn_4065
+Aj_Braced Hang Hop Up_4172
+Aj_Catwalk Idle To Walk Forward_4037
+Aj_Catwalk Walk_3979
+Aj_Catwalk Walk_3980
+Aj_Catwalk Walk_3981
+Aj_Combo Punch_4078
+Aj_Dancing Running Man_3293
+Aj_Dancing Running Man_3294
+Aj_Defeat Idle_3203
+Aj_Disappointed_3459
+Aj_Drunk Idle_3992
+Aj_Dual Weapon Combo_3252
+Aj_End Plank_4142
+Aj_Fall B Loop_4662
+Aj_Female Standing Pose_4784
+Aj_Football Stance_2975
+Aj_Freehang Drop_3328
+Aj_Getting Thrown_2888
+Aj_Hit On Legs_4022
+Aj_Injured Stumble Idle_4634
+Aj_Injured Walk Left Turn_3498
+Aj_Jumping_3842
+Aj_Kick Up Soccerball_4166
+Aj_Laying Mild Cough_4640
+Aj_Leaning_4289
+Aj_Male Action Pose_2695
+Aj_Male Sitting Pose_4070
+Aj_Male Standing Pose_3138
+Aj_Medium Hit To Head_3707
+Aj_Open Door Outwards_3945
+Aj_Pistol Run Backward Arc_2813
+Aj_Pistol Walk Backward Arc_3287
+Aj_Pull Plant_4671
+Aj_Quick Steps_4267
+Aj_Ready Idle_3254
+Aj_Rejected_4727
+Aj_Rifle Block_3873
+Aj_Rifle Turn_4156
+Aj_Running Slide_4488
+Aj_Short Right Side Step_3764
+Aj_Sitting Drinking_4739
+Aj_Sitting Drinking_4740
+Aj_Sitting Drinking_4741
+Aj_Standing 1H Magic Attack 01_3976
+Aj_Standing 2H Magic Area Attack 02_3636
+Aj_Standing Death Right 01_3823
+Aj_Standing Disarm Underarm_3302
+Aj_Standing Draw Arrow_3608
+Aj_Standing Equip Bow_3165
+Aj_Standing Idle 04_4428
+Aj_Standing Land To Standing Idle_3257
+Aj_Standing Melee Attack 360 High_3908
+Aj_Standing Melee Attack Backhand_3370
+Aj_Standing Melee Combo Attack Ver. 2_3927
+Aj_Standing React Large From Left_3974
+Aj_Standing React Small From Right_3897
+Aj_Standing To Crouch_3445
+Aj_Standing To Crouched_3760
+Aj_Standing Torch Idle 04_3573
+Aj_Standing Torch Melee Attack 03_2799
+Aj_Standing Torch Turn Left 90_2889
+Aj_Standing Turn Right 90_3520
+Aj_Stroke Nodding_3023
+Aj_Stunned_3051
+Aj_Troca 1_4094
+Aj_Turn 90 Left_3463
+Aj_Unarmed Turn Right 90_3565
+Aj_Wheelbarrow Walk Turn_3568
+Aj_Zombie Stand Up_4486
+Aj_Baseball Pitching_3733
+Aj_Body Jab Cross_3264
+Aj_Box Turn_4065
+Aj_Braced Hang Hop Up_4172
+Aj_Catwalk Idle To Walk Forward_4037
+Aj_Catwalk Twist R To Walk 180_3002
+Aj_Catwalk Walk_3979
+Aj_Catwalk Walk_3980
+Aj_Catwalk Walk_3981
+Aj_Catwalk Walk Start Turn 180 Right_2990
+Aj_Cross Jumps Rotation_3744
+Aj_Dancing Running Man_3293
+Aj_Dancing Running Man_3294
+Aj_Defeat Idle_3203
+Aj_Drunk Idle_3992
+Aj_Dual Weapon Combo_3252
+Aj_End Plank_4142
+Aj_Fall B Loop_4662
+Aj_Female Standing Pose_4784
+Aj_Fist Pump_4619
+Aj_Football Stance_2975
+Aj_Freehang Drop_3328
+Aj_Getting Thrown_2888
+Aj_Getting Up_4577
+Aj_Golf Post Shot_3767
+Aj_Golf Post Shot_3768
+Aj_Great Sword Idle_4626
+Aj_Hit Reaction(1)_3376
+Aj_Illegal Elbow Punch_3007
+Aj_Injured Stumble Idle_4634
+Aj_Injured Walk Left Turn_3498
+Aj_Jazz Dancing_2942
+Aj_Jump To Freehang_3141
+Aj_Kick Up Soccerball_4166
+Aj_Laying Idle_4053
+Aj_Laying Mild Cough_4640
+Aj_Leaning_4289
+Aj_Male Action Pose_2695
+Aj_Male Sitting Pose_4070
+Aj_Male Sitting Pose(1)_3703
+Aj_Male Sitting Pose(2)_2869
+Aj_Male Standing Pose_3138
+Aj_Male Standing Pose(1)_4105
+Aj_Medium Hit To Head_3707
+Aj_Military Signaling_4718
+Aj_Open Door Outwards_3945
+Aj_Pistol Run Backward Arc_2813
+Aj_Pistol Walk Backward Arc_3287
+Aj_Praying_4461
+Aj_Push Start_3755
+Aj_Quick Steps_4267
+Aj_Rifle Block_3873
+Aj_Rifle Turn_4156
+Aj_Run Arc Left_4260
+Aj_Running_3199
+Aj_Running Slide_4488
+Aj_Short Right Side Step_3764
+Aj_Sitting Drinking_4739
+Aj_Sitting Drinking_4740
+Aj_Sitting Drinking_4741
+Aj_Stand To Freehang_4504
+Aj_Standing 1H Cast Spell 01_3177
+Aj_Standing 1H Magic Attack 01_3976
+Aj_Standing Death Right 01_3823
+Aj_Standing Disarm Underarm_3302
+Aj_Standing Draw Arrow_3608
+Aj_Standing Equip Bow_3165
+Aj_Standing Idle 04_4428
+Aj_Standing Land To Standing Idle_3257
+Aj_Standing Melee Attack 360 High_3908
+Aj_Standing Melee Attack Backhand_3370
+Aj_Standing Melee Combo Attack Ver. 2_3927
+Aj_Standing React Large From Left_3974
+Aj_Standing React Large From Left(1)_2982
+Aj_Standing React Small From Right_3897
+Aj_Standing To Crouch_3445
+Aj_Standing To Crouched_3760
+Aj_Standing Torch Idle 02_4631
+Aj_Standing Torch Idle 02_4632
+Aj_Standing Torch Idle 04_3573
+Aj_Standing Torch Jump Running_3729
+Aj_Standing Torch Melee Attack 03_2799
+Aj_Standing Torch Turn Left 90_2889
+Aj_Standing Turn Right 90_3520
+Aj_Standing Yell_4285
+Aj_Stunned_3051
+Aj_Taking A Pill_3618
+Aj_Troca 1_4094
+Aj_Turn 90 Left_3463
+Aj_Unarmed Turn Right 90_3565
+Aj_Wheelbarrow Walk Turn_3568
+Aj_Zombie Stand Up_4486
+BigVegas_Baseball Pitching_5842
+BigVegas_Box Turn_6179
+BigVegas_Braced Hang Hop Up_6295
+BigVegas_Catwalk Idle To Walk Forward_6147
+BigVegas_Catwalk Twist R To Walk 180_5137
+BigVegas_Catwalk Walk_6086
+BigVegas_Catwalk Walk_6087
+BigVegas_Catwalk Walk_6088
+BigVegas_Catwalk Walk Forward Arc 90L_6808
+BigVegas_Catwalk Walk Start Turn 180 Right_5125
+BigVegas_Combo Punch_6196
+BigVegas_Dancing Running Man_5416
+BigVegas_Dancing Running Man_5417
+BigVegas_Defeat Idle_5337
+BigVegas_Defeat Idle(1)_5438
+BigVegas_Disappointed_5578
+BigVegas_Drunk Idle_6101
+BigVegas_Dual Weapon Combo_5378
+BigVegas_End Plank_6265
+BigVegas_Fall B Loop_6763
+BigVegas_Female Standing Pose_6878
+BigVegas_Football Stance_5110
+BigVegas_Freehang Drop_5446
+BigVegas_Getting Thrown_5024
+BigVegas_Golf Post Shot_5872
+BigVegas_Golf Post Shot_5873
+BigVegas_Great Sword Idle_6722
+BigVegas_Hit On Legs_6128
+BigVegas_Hit Reaction_5516
+BigVegas_Illegal Elbow Punch_5141
+BigVegas_Injured Stumble Idle_6732
+BigVegas_Injured Walk Left Turn_5620
+BigVegas_Jazz Dancing_5074
+BigVegas_Jumping_5947
+BigVegas_Kick Up Soccerball_6286
+BigVegas_Laying Mild Cough_6739
+BigVegas_Leaning_6411
+BigVegas_Male Action Pose_4839
+BigVegas_Male Sitting Pose_6188
+BigVegas_Male Sitting Pose(1)_5813
+BigVegas_Male Sitting Pose(2)_5005
+BigVegas_Male Standing Pose_5272
+BigVegas_Male Standing Pose(1)_6226
+BigVegas_Medium Hit To Head_5817
+BigVegas_Military Signaling_6817
+BigVegas_Pistol Run Backward Arc_4949
+BigVegas_Pistol Walk Backward Arc_5410
+BigVegas_Pointing_6805
+BigVegas_Praying_6566
+BigVegas_Quick Steps_6387
+BigVegas_Ready Idle_5381
+BigVegas_Rejected_6830
+BigVegas_Rifle Block_5983
+BigVegas_Rifle Turn_6276
+BigVegas_Run Arc Left_6380
+BigVegas_Running_5333
+BigVegas_Running Slide_6593
+BigVegas_Sitting Yell_6531
+BigVegas_Standing 1H Magic Attack 01_6083
+BigVegas_Standing 2H Magic Area Attack 02_5752
+BigVegas_Standing Death Right 01_5932
+BigVegas_Standing Disarm Underarm_5422
+BigVegas_Standing Draw Arrow_5727
+BigVegas_Standing Equip Bow_5302
+BigVegas_Standing Idle 04_6532
+BigVegas_Standing Land To Standing Idle_5384
+BigVegas_Standing Melee Attack 360 High_6018
+BigVegas_Standing Melee Attack Backhand_5491
+BigVegas_Standing Melee Combo Attack Ver. 2_6035
+BigVegas_Standing React Large From Left_6081
+BigVegas_Standing React Large From Left(1)_5117
+BigVegas_Standing React Small From Right_6010
+BigVegas_Standing To Crouch_5559
+BigVegas_Standing Torch Idle 02_6729
+BigVegas_Standing Torch Idle 02_6730
+BigVegas_Standing Torch Idle 04_5700
+BigVegas_Standing Torch Melee Attack 03_4937
+BigVegas_Standing Torch Turn Left 90_5025
+BigVegas_Standing Turn Right 90_5642
+BigVegas_Standing Yell_6408
+BigVegas_Stroke Nodding_5161
+BigVegas_Taking A Pill_5734
+BigVegas_Turn 90 Left_5582
+BigVegas_Unarmed Turn Right 90_5689
+BigVegas_Wheelbarrow Walk Turn_5692
+BigVegas_Zombie Stand Up_6591
+BigVegas_Box Turn_6179
+BigVegas_Braced Hang Hop Up_6295
+BigVegas_Catwalk Idle To Walk Forward_6147
+BigVegas_Catwalk Walk_6086
+BigVegas_Catwalk Walk_6087
+BigVegas_Catwalk Walk_6088
+BigVegas_Combo Punch_6196
+BigVegas_Dancing Running Man_5416
+BigVegas_Dancing Running Man_5417
+BigVegas_Defeat Idle_5337
+BigVegas_Disappointed_5578
+BigVegas_Drunk Idle_6101
+BigVegas_Dual Weapon Combo_5378
+BigVegas_End Plank_6265
+BigVegas_Fall B Loop_6763
+BigVegas_Female Standing Pose_6878
+BigVegas_Football Stance_5110
+BigVegas_Freehang Drop_5446
+BigVegas_Getting Thrown_5024
+BigVegas_Hit On Legs_6128
+BigVegas_Injured Stumble Idle_6732
+BigVegas_Injured Walk Left Turn_5620
+BigVegas_Jumping_5947
+BigVegas_Kick Up Soccerball_6286
+BigVegas_Laying Idle_6158
+BigVegas_Laying Idle_6159
+BigVegas_Laying Mild Cough_6739
+BigVegas_Leaning_6411
+BigVegas_Male Action Pose_4839
+BigVegas_Male Sitting Pose_6188
+BigVegas_Male Standing Pose_5272
+BigVegas_Medium Hit To Head_5817
+BigVegas_Pick Fruit_5673
+BigVegas_Pistol Run Backward Arc_4949
+BigVegas_Pistol Walk Backward Arc_5410
+BigVegas_Quick Steps_6387
+BigVegas_Ready Idle_5381
+BigVegas_Rejected_6830
+BigVegas_Rifle Block_5983
+BigVegas_Rifle Turn_6276
+BigVegas_Running Slide_6593
+BigVegas_Standing 1H Magic Attack 01_6083
+BigVegas_Standing 2H Magic Area Attack 02_5752
+BigVegas_Standing Death Right 01_5932
+BigVegas_Standing Disarm Underarm_5422
+BigVegas_Standing Draw Arrow_5727
+BigVegas_Standing Equip Bow_5302
+BigVegas_Standing Idle 04_6532
+BigVegas_Standing Land To Standing Idle_5384
+BigVegas_Standing Melee Attack 360 High_6018
+BigVegas_Standing Melee Attack Backhand_5491
+BigVegas_Standing Melee Combo Attack Ver. 2_6035
+BigVegas_Standing React Large From Left_6081
+BigVegas_Standing React Small From Right_6010
+BigVegas_Standing To Crouch_5559
+BigVegas_Standing Torch Idle 04_5700
+BigVegas_Standing Torch Melee Attack 03_4937
+BigVegas_Standing Torch Turn Left 90_5025
+BigVegas_Standing Turn Right 90_5642
+BigVegas_Stroke Nodding_5161
+BigVegas_Turn 90 Left_5582
+BigVegas_Unarmed Turn Right 90_5689
+BigVegas_Wheelbarrow Walk Turn_5692
+BigVegas_Zombie Stand Up_6591
+BigVegas_Baseball Pitching_5842
+BigVegas_Box Turn_6179
+BigVegas_Braced Hang Hop Up_6295
+BigVegas_Catwalk Idle To Walk Forward_6147
+BigVegas_Catwalk Twist R To Walk 180_5137
+BigVegas_Catwalk Walk_6086
+BigVegas_Catwalk Walk_6087
+BigVegas_Catwalk Walk_6088
+BigVegas_Catwalk Walk Start Turn 180 Right_5125
+BigVegas_Dancing Running Man_5416
+BigVegas_Dancing Running Man_5417
+BigVegas_Defeat Idle_5337
+BigVegas_Drunk Idle_6101
+BigVegas_Dual Weapon Combo_5378
+BigVegas_End Plank_6265
+BigVegas_Fall B Loop_6763
+BigVegas_Female Standing Pose_6878
+BigVegas_Football Stance_5110
+BigVegas_Freehang Drop_5446
+BigVegas_Getting Thrown_5024
+BigVegas_Golf Post Shot_5872
+BigVegas_Golf Post Shot_5873
+BigVegas_Golf Putt Victory_5976
+BigVegas_Golf Putt Victory_5977
+BigVegas_Great Sword Idle_6722
+BigVegas_Idle_6675
+BigVegas_Illegal Elbow Punch_5141
+BigVegas_Injured Stumble Idle_6732
+BigVegas_Injured Walk Left Turn_5620
+BigVegas_Jazz Dancing_5074
+BigVegas_Kick Up Soccerball_6286
+BigVegas_Laying Mild Cough_6739
+BigVegas_Leaning_6411
+BigVegas_Male Action Pose_4839
+BigVegas_Male Sitting Pose_6188
+BigVegas_Male Sitting Pose(1)_5813
+BigVegas_Male Sitting Pose(2)_5005
+BigVegas_Male Standing Pose_5272
+BigVegas_Male Standing Pose(1)_6226
+BigVegas_Medium Hit To Head_5817
+BigVegas_Military Signaling_6817
+BigVegas_Pistol Run Backward Arc_4949
+BigVegas_Pistol Walk Backward Arc_5410
+BigVegas_Praying_6566
+BigVegas_Pull Plant_6771
+BigVegas_Quick Steps_6387
+BigVegas_Rifle Block_5983
+BigVegas_Rifle Turn_6276
+BigVegas_Run Arc Left_6380
+BigVegas_Running_5333
+BigVegas_Running Slide_6593
+BigVegas_Standing 1H Magic Attack 01_6083
+BigVegas_Standing Death Right 01_5932
+BigVegas_Standing Disarm Underarm_5422
+BigVegas_Standing Draw Arrow_5727
+BigVegas_Standing Equip Bow_5302
+BigVegas_Standing Idle 04_6532
+BigVegas_Standing Land To Standing Idle_5384
+BigVegas_Standing Melee Attack 360 High_6018
+BigVegas_Standing Melee Attack Backhand_5491
+BigVegas_Standing Melee Combo Attack Ver. 2_6035
+BigVegas_Standing React Large From Left_6081
+BigVegas_Standing React Large From Left(1)_5117
+BigVegas_Standing React Small From Right_6010
+BigVegas_Standing To Crouch_5559
+BigVegas_Standing Torch Idle 02_6729
+BigVegas_Standing Torch Idle 02_6730
+BigVegas_Standing Torch Idle 04_5700
+BigVegas_Standing Torch Melee Attack 03_4937
+BigVegas_Standing Torch Turn Left 90_5025
+BigVegas_Standing Turn Right 90_5642
+BigVegas_Standing Yell_6408
+BigVegas_Taking A Pill_5734
+BigVegas_Turn 90 Left_5582
+BigVegas_Unarmed Turn Right 90_5689
+BigVegas_Wheelbarrow Walk Turn_5692
+BigVegas_Zombie Stand Up_6591
+Kaya_Box Turn_19876
+Kaya_Braced Hang Hop Up_19952
+Kaya_Catwalk Idle To Walk Forward_19853
+Kaya_Catwalk Walk_19820
+Kaya_Catwalk Walk_19821
+Kaya_Catwalk Walk_19822
+Kaya_Combo Punch_19888
+Kaya_Dancing Running Man_19380
+Kaya_Dancing Running Man_19381
+Kaya_Defeat Idle_19320
+Kaya_Disappointed_19488
+Kaya_Drunk Idle_19830
+Kaya_Dual Weapon Combo_19354
+Kaya_End Plank_19930
+Kaya_Fall B Loop_20258
+Kaya_Female Standing Pose_20330
+Kaya_Football Stance_19174
+Kaya_Freehang Drop_19398
+Kaya_Getting Thrown_19126
+Kaya_Hit On Legs_19848
+Kaya_Injured Stumble Idle_20241
+Kaya_Injured Walk Left Turn_19525
+Kaya_Jumping_19736
+Kaya_Kick Up Soccerball_19948
+Kaya_Laying Mild Cough_20247
+Kaya_Leaning_20021
+Kaya_Male Action Pose_19006
+Kaya_Male Sitting Pose_19882
+Kaya_Male Standing Pose_19277
+Kaya_Medium Hit To Head_19651
+Kaya_Open Door Outwards_19800
+Kaya_Pistol Run Backward Arc_19082
+Kaya_Pistol Walk Backward Arc_19378
+Kaya_Pull Plant_20265
+Kaya_Quick Steps_20008
+Kaya_Ready Idle_19357
+Kaya_Rejected_20306
+Kaya_Rifle Block_19751
+Kaya_Rifle Turn_19939
+Kaya_Running Slide_20137
+Kaya_Short Right Side Step_19691
+Kaya_Sitting Drinking_20311
+Kaya_Sitting Drinking_20312
+Kaya_Sitting Drinking_20313
+Kaya_Standing 1H Magic Attack 01_19819
+Kaya_Standing 2H Magic Area Attack 02_19620
+Kaya_Standing Death Right 01_19727
+Kaya_Standing Disarm Underarm_19384
+Kaya_Standing Draw Arrow_19604
+Kaya_Standing Equip Bow_19297
+Kaya_Standing Idle 04_20102
+Kaya_Standing Land To Standing Idle_19361
+Kaya_Standing Melee Attack 360 High_19772
+Kaya_Standing Melee Attack Backhand_19430
+Kaya_Standing Melee Combo Attack Ver. 2_19785
+Kaya_Standing React Large From Left_19817
+Kaya_Standing React Small From Right_19766
+Kaya_Standing To Crouch_19475
+Kaya_Standing To Crouched_19688
+Kaya_Standing Torch Idle 04_19579
+Kaya_Standing Torch Melee Attack 03_19069
+Kaya_Standing Torch Turn Left 90_19127
+Kaya_Standing Turn Right 90_19541
+Kaya_Stroke Nodding_19206
+Kaya_Stunned_19223
+Kaya_Troca 1_19894
+Kaya_Turn 90 Left_19491
+Kaya_Unarmed Turn Right 90_19571
+Kaya_Wheelbarrow Walk Turn_19573
+Kaya_Zombie Stand Up_20136
+Kaya_Box Turn_19876
+Kaya_Braced Hang Hop Up_19952
+Kaya_Catwalk Idle To Walk Forward_19853
+Kaya_Catwalk Walk_19820
+Kaya_Catwalk Walk_19821
+Kaya_Catwalk Walk_19822
+Kaya_Combo Punch_19888
+Kaya_Dancing Running Man_19380
+Kaya_Dancing Running Man_19381
+Kaya_Defeat Idle_19320
+Kaya_Disappointed_19488
+Kaya_Drunk Idle_19830
+Kaya_Dual Weapon Combo_19354
+Kaya_End Plank_19930
+Kaya_Fall B Loop_20258
+Kaya_Female Standing Pose_20330
+Kaya_Football Stance_19174
+Kaya_Freehang Drop_19398
+Kaya_Getting Thrown_19126
+Kaya_Hit On Legs_19848
+Kaya_Injured Stumble Idle_20241
+Kaya_Injured Walk Left Turn_19525
+Kaya_Jumping_19736
+Kaya_Kick Up Soccerball_19948
+Kaya_Laying Idle_19862
+Kaya_Laying Idle_19863
+Kaya_Laying Mild Cough_20247
+Kaya_Leaning_20021
+Kaya_Male Action Pose_19006
+Kaya_Male Sitting Pose_19882
+Kaya_Male Standing Pose_19277
+Kaya_Medium Hit To Head_19651
+Kaya_Pick Fruit_19564
+Kaya_Pistol Run Backward Arc_19082
+Kaya_Pistol Walk Backward Arc_19378
+Kaya_Quick Steps_20008
+Kaya_Ready Idle_19357
+Kaya_Rejected_20306
+Kaya_Rifle Block_19751
+Kaya_Rifle Turn_19939
+Kaya_Running Slide_20137
+Kaya_Standing 1H Magic Attack 01_19819
+Kaya_Standing 2H Magic Area Attack 02_19620
+Kaya_Standing Death Right 01_19727
+Kaya_Standing Disarm Underarm_19384
+Kaya_Standing Draw Arrow_19604
+Kaya_Standing Equip Bow_19297
+Kaya_Standing Idle 04_20102
+Kaya_Standing Land To Standing Idle_19361
+Kaya_Standing Melee Attack 360 High_19772
+Kaya_Standing Melee Attack Backhand_19430
+Kaya_Standing Melee Combo Attack Ver. 2_19785
+Kaya_Standing React Large From Left_19817
+Kaya_Standing React Small From Right_19766
+Kaya_Standing To Crouch_19475
+Kaya_Standing Torch Idle 04_19579
+Kaya_Standing Torch Melee Attack 03_19069
+Kaya_Standing Torch Turn Left 90_19127
+Kaya_Standing Turn Right 90_19541
+Kaya_Stroke Nodding_19206
+Kaya_Turn 90 Left_19491
+Kaya_Unarmed Turn Right 90_19571
+Kaya_Wheelbarrow Walk Turn_19573
+Kaya_Zombie Stand Up_20136
+Kaya_Box Turn_19876
+Kaya_Braced Hang Hop Up_19952
+Kaya_Catwalk Idle To Walk Forward_19853
+Kaya_Catwalk Walk_19820
+Kaya_Catwalk Walk_19821
+Kaya_Catwalk Walk_19822
+Kaya_Catwalk Walk Forward Arc 90L_20291
+Kaya_Dancing Running Man_19380
+Kaya_Dancing Running Man_19381
+Kaya_Defeat Idle_19320
+Kaya_Drunk Idle_19830
+Kaya_Dual Weapon Combo_19354
+Kaya_End Plank_19930
+Kaya_Fall B Loop_20258
+Kaya_Female Standing Pose_20330
+Kaya_Football Stance_19174
+Kaya_Freehang Drop_19398
+Kaya_Getting Thrown_19126
+Kaya_Injured Stumble Idle_20241
+Kaya_Injured Walk Left Turn_19525
+Kaya_Kick Up Soccerball_19948
+Kaya_Laying Mild Cough_20247
+Kaya_Leaning_20021
+Kaya_Male Action Pose_19006
+Kaya_Male Sitting Pose_19882
+Kaya_Male Standing Pose_19277
+Kaya_Medium Hit To Head_19651
+Kaya_Open Door Outwards_19800
+Kaya_Pistol Run Backward Arc_19082
+Kaya_Pistol Walk Backward Arc_19378
+Kaya_Pointing_20288
+Kaya_Quick Steps_20008
+Kaya_Rifle Block_19751
+Kaya_Rifle Turn_19939
+Kaya_Running Slide_20137
+Kaya_Short Right Side Step_19691
+Kaya_Sitting Drinking_20311
+Kaya_Sitting Drinking_20312
+Kaya_Sitting Drinking_20313
+Kaya_Standing 1H Magic Attack 01_19819
+Kaya_Standing Death Right 01_19727
+Kaya_Standing Disarm Underarm_19384
+Kaya_Standing Draw Arrow_19604
+Kaya_Standing Equip Bow_19297
+Kaya_Standing Idle 04_20102
+Kaya_Standing Land To Standing Idle_19361
+Kaya_Standing Melee Attack 360 High_19772
+Kaya_Standing Melee Attack Backhand_19430
+Kaya_Standing Melee Combo Attack Ver. 2_19785
+Kaya_Standing React Large From Left_19817
+Kaya_Standing React Small From Right_19766
+Kaya_Standing To Crouch_19475
+Kaya_Standing To Crouched_19688
+Kaya_Standing Torch Idle 04_19579
+Kaya_Standing Torch Melee Attack 03_19069
+Kaya_Standing Torch Turn Left 90_19127
+Kaya_Standing Turn Right 90_19541
+Kaya_Stunned_19223
+Kaya_Troca 1_19894
+Kaya_Turn 90 Left_19491
+Kaya_Unarmed Turn Right 90_19571
+Kaya_Wheelbarrow Walk Turn_19573
+Kaya_Zombie Stand Up_20136
+SportyGranny_Baseball Pitching_70276
+SportyGranny_Body Jab Cross_69875
+SportyGranny_Box Turn_70560
+SportyGranny_Braced Hang Hop Up_70656
+SportyGranny_Catwalk Idle To Walk Forward_70533
+SportyGranny_Catwalk Twist R To Walk 180_69662
+SportyGranny_Catwalk Walk_70483
+SportyGranny_Catwalk Walk_70484
+SportyGranny_Catwalk Walk_70485
+SportyGranny_Catwalk Walk Start Turn 180 Right_69654
+SportyGranny_Cross Jumps Rotation_70281
+SportyGranny_Dancing Running Man_69899
+SportyGranny_Dancing Running Man_69900
+SportyGranny_Defeat Idle_69834
+SportyGranny_Drunk Idle_70497
+SportyGranny_Dual Weapon Combo_69864
+SportyGranny_End Plank_70627
+SportyGranny_Fall B Loop_71060
+SportyGranny_Female Standing Pose_71156
+SportyGranny_Fist Pump_71015
+SportyGranny_Football Stance_69642
+SportyGranny_Freehang Drop_69925
+SportyGranny_Getting Thrown_69567
+SportyGranny_Getting Up_70978
+SportyGranny_Golf Post Shot_70301
+SportyGranny_Golf Post Shot_70302
+SportyGranny_Great Sword Idle_71021
+SportyGranny_Hit Reaction(1)_69970
+SportyGranny_Illegal Elbow Punch_69667
+SportyGranny_Injured Stumble Idle_71031
+SportyGranny_Injured Walk Left Turn_70072
+SportyGranny_Jazz Dancing_69612
+SportyGranny_Jump To Freehang_69779
+SportyGranny_Kick Up Soccerball_70647
+SportyGranny_Laying Idle_70545
+SportyGranny_Laying Mild Cough_71037
+SportyGranny_Leaning_70751
+SportyGranny_Male Action Pose_69407
+SportyGranny_Male Sitting Pose_70566
+SportyGranny_Male Sitting Pose(1)_70253
+SportyGranny_Male Sitting Pose(2)_69550
+SportyGranny_Male Standing Pose_69776
+SportyGranny_Male Standing Pose(1)_70595
+SportyGranny_Medium Hit To Head_70255
+SportyGranny_Military Signaling_71104
+SportyGranny_Open Door Outwards_70454
+SportyGranny_Pistol Run Backward Arc_69497
+SportyGranny_Pistol Walk Backward Arc_69891
+SportyGranny_Praying_70883
+SportyGranny_Push Start_70291
+SportyGranny_Quick Steps_70732
+SportyGranny_Rifle Block_70398
+SportyGranny_Rifle Turn_70639
+SportyGranny_Run Arc Left_70727
+SportyGranny_Running_69832
+SportyGranny_Running Slide_70905
+SportyGranny_Short Right Side Step_70298
+SportyGranny_Sitting Drinking_71124
+SportyGranny_Sitting Drinking_71125
+SportyGranny_Sitting Drinking_71126
+SportyGranny_Stand To Freehang_70919
+SportyGranny_Standing 1H Cast Spell 01_69811
+SportyGranny_Standing 1H Magic Attack 01_70480
+SportyGranny_Standing Death Right 01_70358
+SportyGranny_Standing Disarm Underarm_69907
+SportyGranny_Standing Draw Arrow_70169
+SportyGranny_Standing Equip Bow_69799
+SportyGranny_Standing Idle 04_70860
+SportyGranny_Standing Land To Standing Idle_69868
+SportyGranny_Standing Melee Attack 360 High_70424
+SportyGranny_Standing Melee Attack Backhand_69964
+SportyGranny_Standing Melee Combo Attack Ver. 2_70442
+SportyGranny_Standing React Large From Left_70478
+SportyGranny_Standing React Large From Left(1)_69646
+SportyGranny_Standing React Small From Right_70416
+SportyGranny_Standing To Crouch_70022
+SportyGranny_Standing To Crouched_70294
+SportyGranny_Standing Torch Idle 02_71028
+SportyGranny_Standing Torch Idle 02_71029
+SportyGranny_Standing Torch Idle 04_70137
+SportyGranny_Standing Torch Jump Running_70272
+SportyGranny_Standing Torch Melee Attack 03_69487
+SportyGranny_Standing Torch Turn Left 90_69568
+SportyGranny_Standing Turn Right 90_70090
+SportyGranny_Standing Yell_70748
+SportyGranny_Stunned_69707
+SportyGranny_Taking A Pill_70176
+SportyGranny_Troca 1_70586
+SportyGranny_Turn 90 Left_70035
+SportyGranny_Unarmed Turn Right 90_70128
+SportyGranny_Wheelbarrow Walk Turn_70130
+SportyGranny_Zombie Stand Up_70904
+SportyGranny_Baseball Pitching_70276
+SportyGranny_Box Turn_70560
+SportyGranny_Braced Hang Hop Up_70656
+SportyGranny_Catwalk Idle To Walk Forward_70533
+SportyGranny_Catwalk Twist R To Walk 180_69662
+SportyGranny_Catwalk Walk_70483
+SportyGranny_Catwalk Walk_70484
+SportyGranny_Catwalk Walk_70485
+SportyGranny_Catwalk Walk Start Turn 180 Right_69654
+SportyGranny_Dancing Running Man_69899
+SportyGranny_Dancing Running Man_69900
+SportyGranny_Defeat Idle_69834
+SportyGranny_Drunk Idle_70497
+SportyGranny_Dual Weapon Combo_69864
+SportyGranny_End Plank_70627
+SportyGranny_Fall B Loop_71060
+SportyGranny_Female Standing Pose_71156
+SportyGranny_Football Stance_69642
+SportyGranny_Freehang Drop_69925
+SportyGranny_Getting Thrown_69567
+SportyGranny_Golf Post Shot_70301
+SportyGranny_Golf Post Shot_70302
+SportyGranny_Golf Putt Victory_70391
+SportyGranny_Golf Putt Victory_70392
+SportyGranny_Great Sword Idle_71021
+SportyGranny_Idle_70977
+SportyGranny_Illegal Elbow Punch_69667
+SportyGranny_Injured Stumble Idle_71031
+SportyGranny_Injured Walk Left Turn_70072
+SportyGranny_Jazz Dancing_69612
+SportyGranny_Kick Up Soccerball_70647
+SportyGranny_Laying Mild Cough_71037
+SportyGranny_Leaning_70751
+SportyGranny_Male Action Pose_69407
+SportyGranny_Male Sitting Pose_70566
+SportyGranny_Male Sitting Pose(1)_70253
+SportyGranny_Male Sitting Pose(2)_69550
+SportyGranny_Male Standing Pose_69776
+SportyGranny_Male Standing Pose(1)_70595
+SportyGranny_Medium Hit To Head_70255
+SportyGranny_Military Signaling_71104
+SportyGranny_Pistol Run Backward Arc_69497
+SportyGranny_Pistol Walk Backward Arc_69891
+SportyGranny_Praying_70883
+SportyGranny_Pull Plant_71067
+SportyGranny_Quick Steps_70732
+SportyGranny_Rifle Block_70398
+SportyGranny_Rifle Turn_70639
+SportyGranny_Run Arc Left_70727
+SportyGranny_Running_69832
+SportyGranny_Running Slide_70905
+SportyGranny_Standing 1H Magic Attack 01_70480
+SportyGranny_Standing Death Right 01_70358
+SportyGranny_Standing Disarm Underarm_69907
+SportyGranny_Standing Draw Arrow_70169
+SportyGranny_Standing Equip Bow_69799
+SportyGranny_Standing Idle 04_70860
+SportyGranny_Standing Land To Standing Idle_69868
+SportyGranny_Standing Melee Attack 360 High_70424
+SportyGranny_Standing Melee Attack Backhand_69964
+SportyGranny_Standing Melee Combo Attack Ver. 2_70442
+SportyGranny_Standing React Large From Left_70478
+SportyGranny_Standing React Large From Left(1)_69646
+SportyGranny_Standing React Small From Right_70416
+SportyGranny_Standing To Crouch_70022
+SportyGranny_Standing Torch Idle 02_71028
+SportyGranny_Standing Torch Idle 02_71029
+SportyGranny_Standing Torch Idle 04_70137
+SportyGranny_Standing Torch Melee Attack 03_69487
+SportyGranny_Standing Torch Turn Left 90_69568
+SportyGranny_Standing Turn Right 90_70090
+SportyGranny_Standing Yell_70748
+SportyGranny_Taking A Pill_70176
+SportyGranny_Turn 90 Left_70035
+SportyGranny_Unarmed Turn Right 90_70128
+SportyGranny_Wheelbarrow Walk Turn_70130
+SportyGranny_Zombie Stand Up_70904
+SportyGranny_Box Turn_70560
+SportyGranny_Braced Hang Hop Up_70656
+SportyGranny_Catwalk Idle To Walk Forward_70533
+SportyGranny_Catwalk Walk_70483
+SportyGranny_Catwalk Walk_70484
+SportyGranny_Catwalk Walk_70485
+SportyGranny_Catwalk Walk Forward Arc 90L_71096
+SportyGranny_Dancing Running Man_69899
+SportyGranny_Dancing Running Man_69900
+SportyGranny_Defeat Idle_69834
+SportyGranny_Drunk Idle_70497
+SportyGranny_Dual Weapon Combo_69864
+SportyGranny_End Plank_70627
+SportyGranny_Fall B Loop_71060
+SportyGranny_Female Standing Pose_71156
+SportyGranny_Football Stance_69642
+SportyGranny_Freehang Drop_69925
+SportyGranny_Getting Thrown_69567
+SportyGranny_Injured Stumble Idle_71031
+SportyGranny_Injured Walk Left Turn_70072
+SportyGranny_Kick Up Soccerball_70647
+SportyGranny_Laying Mild Cough_71037
+SportyGranny_Leaning_70751
+SportyGranny_Male Action Pose_69407
+SportyGranny_Male Sitting Pose_70566
+SportyGranny_Male Standing Pose_69776
+SportyGranny_Medium Hit To Head_70255
+SportyGranny_Open Door Outwards_70454
+SportyGranny_Pistol Run Backward Arc_69497
+SportyGranny_Pistol Walk Backward Arc_69891
+SportyGranny_Pointing_71093
+SportyGranny_Quick Steps_70732
+SportyGranny_Rifle Block_70398
+SportyGranny_Rifle Turn_70639
+SportyGranny_Running Slide_70905
+SportyGranny_Short Right Side Step_70298
+SportyGranny_Sitting Drinking_71124
+SportyGranny_Sitting Drinking_71125
+SportyGranny_Sitting Drinking_71126
+SportyGranny_Standing 1H Magic Attack 01_70480
+SportyGranny_Standing Death Right 01_70358
+SportyGranny_Standing Disarm Underarm_69907
+SportyGranny_Standing Draw Arrow_70169
+SportyGranny_Standing Equip Bow_69799
+SportyGranny_Standing Idle 04_70860
+SportyGranny_Standing Land To Standing Idle_69868
+SportyGranny_Standing Melee Attack 360 High_70424
+SportyGranny_Standing Melee Attack Backhand_69964
+SportyGranny_Standing Melee Combo Attack Ver. 2_70442
+SportyGranny_Standing React Large From Left_70478
+SportyGranny_Standing React Small From Right_70416
+SportyGranny_Standing To Crouch_70022
+SportyGranny_Standing To Crouched_70294
+SportyGranny_Standing Torch Idle 04_70137
+SportyGranny_Standing Torch Melee Attack 03_69487
+SportyGranny_Standing Torch Turn Left 90_69568
+SportyGranny_Standing Turn Right 90_70090
+SportyGranny_Stunned_69707
+SportyGranny_Troca 1_70586
+SportyGranny_Turn 90 Left_70035
+SportyGranny_Unarmed Turn Right 90_70128
+SportyGranny_Wheelbarrow Walk Turn_70130
+SportyGranny_Zombie Stand Up_70904

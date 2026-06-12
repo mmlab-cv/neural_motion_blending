@@ -1,0 +1,782 @@
+Goblin_m_Braced Hang Hop Up_13256
+Goblin_m_Catwalk Idle To Walk Forward_13164
+Goblin_m_Catwalk Walk_13131
+Goblin_m_Catwalk Walk_13132
+Goblin_m_Catwalk Walk_13133
+Goblin_m_Catwalk Walk Start Turn 180 Right_12532
+Goblin_m_Combo Punch_13198
+Goblin_m_Defeat Idle_12662
+Goblin_m_Drunk Idle_13141
+Goblin_m_Dual Weapon Combo_12695
+Goblin_m_End Plank_13238
+Goblin_m_Fall B Loop_13547
+Goblin_m_Female Standing Pose_13615
+Goblin_m_Football Stance_12524
+Goblin_m_Freehang Drop_12737
+Goblin_m_Getting Thrown_12477
+Goblin_m_Hit On Legs_13159
+Goblin_m_Injured Stumble Idle_13530
+Goblin_m_Laying Idle_13173
+Goblin_m_Laying Idle_13174
+Goblin_m_Laying Mild Cough_13536
+Goblin_m_Leaning_13324
+Goblin_m_Male Action Pose_12364
+Goblin_m_Male Sitting Pose_13192
+Goblin_m_Male Standing Pose_12622
+Goblin_m_Medium Hit To Head_12967
+Goblin_m_Open Door Outwards_13113
+Goblin_m_Pistol Run Backward Arc_12436
+Goblin_m_Quick Steps_13311
+Goblin_m_Ready Idle_12698
+Goblin_m_Rifle Block_13065
+Goblin_m_Rifle Turn_13247
+Goblin_m_Run Arc Left_13306
+Goblin_m_Short Right Side Step_13006
+Goblin_m_Sitting Drinking_13597
+Goblin_m_Sitting Drinking_13598
+Goblin_m_Sitting Drinking_13599
+Goblin_m_Standing 1H Magic Attack 01_13130
+Goblin_m_Standing Death Right 01_13043
+Goblin_m_Standing Disarm Underarm_12723
+Goblin_m_Standing Draw Arrow_12924
+Goblin_m_Standing Idle 04_13400
+Goblin_m_Standing Melee Attack 360 High_13086
+Goblin_m_Standing Melee Combo Attack Ver. 2_13099
+Goblin_m_Standing React Large From Left_13128
+Goblin_m_Standing React Small From Right_13081
+Goblin_m_Standing To Crouch_12814
+Goblin_m_Standing To Crouched_13003
+Goblin_m_Standing Torch Idle 02_13528
+Goblin_m_Standing Torch Idle 02_13529
+Goblin_m_Standing Torch Idle 04_12899
+Goblin_m_Standing Torch Turn Left 90_12478
+Goblin_m_Standing Turn Right 90_12863
+Goblin_m_Stroke Nodding_12555
+Goblin_m_Stunned_12570
+Goblin_m_Taking A Pill_12931
+Goblin_m_Troca 1_13203
+Goblin_m_Turn 90 Left_12825
+Goblin_m_Unarmed Turn Right 90_12891
+Goblin_m_Wheelbarrow Walk Turn_12893
+Goblin_m_Zombie Stand Up_13428
+Goblin_m_Baseball Pitching_12985
+Goblin_m_Box Turn_13186
+Goblin_m_Braced Hang Hop Up_13256
+Goblin_m_Braced Hang Shimmy_13331
+Goblin_m_Catwalk Idle To Walk Forward_13164
+Goblin_m_Catwalk Twist R To Walk 180_12542
+Goblin_m_Catwalk Walk Forward Arc 90L_13578
+Goblin_m_Catwalk Walk Start Turn 180 Right_12532
+Goblin_m_Climbing Up Wall_13419
+Goblin_m_Combo Punch_13198
+Goblin_m_Crouched Sneaking Left_13328
+Goblin_m_Dancing Running Man_12719
+Goblin_m_Dancing Running Man_12720
+Goblin_m_Defeat Idle_12662
+Goblin_m_Drunk Idle_13141
+Goblin_m_Drunk Run Forward_13330
+Goblin_m_Dual Weapon Combo_12695
+Goblin_m_End Plank_13238
+Goblin_m_Female Standing Pose_13615
+Goblin_m_Fist Pump_13518
+Goblin_m_Freehang Drop_12737
+Goblin_m_Getting Thrown_12477
+Goblin_m_Getting Up_13493
+Goblin_m_Getting Up_13494
+Goblin_m_Golf Post Shot_13007
+Goblin_m_Golf Post Shot_13008
+Goblin_m_Golf Putt Victory_13062
+Goblin_m_Golf Putt Victory_13063
+Goblin_m_Great Sword Idle_13525
+Goblin_m_Hit On Legs_13159
+Goblin_m_Hit Reaction_12777
+Goblin_m_Holding Walk_12553
+Goblin_m_Illegal Elbow Punch_12544
+Goblin_m_Injured Run_12556
+Goblin_m_Injured Run Jump_12530
+Goblin_m_Injured Stumble Idle_13530
+Goblin_m_Jazz Dancing_12507
+Goblin_m_Jumping_13051
+Goblin_m_Kick Up Soccerball_13252
+Goblin_m_Laying Idle_13173
+Goblin_m_Laying Idle_13174
+Goblin_m_Laying Mild Cough_13536
+Goblin_m_Leaning_13324
+Goblin_m_Male Action Pose_12364
+Goblin_m_Male Sitting Pose_13192
+Goblin_m_Male Standing Pose_12622
+Goblin_m_Medium Hit To Head_12967
+Goblin_m_Military Signaling_13586
+Goblin_m_Open Door Outwards_13113
+Goblin_m_Pick Fruit_12885
+Goblin_m_Pistol Run_12559
+Goblin_m_Pistol Run Backward Arc_12436
+Goblin_m_Pistol Strafe_12754
+Goblin_m_Pointing_13575
+Goblin_m_Praying_13415
+Goblin_m_Pull Plant_13554
+Goblin_m_Quick Steps_13311
+Goblin_m_Ready Idle_12698
+Goblin_m_Rifle Block_13065
+Goblin_m_Rifle Turn_13247
+Goblin_m_Run Arc Left_13306
+Goblin_m_Running_12661
+Goblin_m_Scary Clown Walk_12871
+Goblin_m_Short Right Side Step_13006
+Goblin_m_Sitting Drinking_13597
+Goblin_m_Sitting Drinking_13598
+Goblin_m_Sitting Drinking_13599
+Goblin_m_Sitting Yell_13399
+Goblin_m_Sprint Backward Right_13188
+Goblin_m_Sprint Left_13149
+Goblin_m_Standing 1H Magic Attack 01_13130
+Goblin_m_Standing Death Right 01_13043
+Goblin_m_Standing Disarm Underarm_12723
+Goblin_m_Standing Draw Arrow_12924
+Goblin_m_Standing Equip Bow_12640
+Goblin_m_Standing Idle 04_13400
+Goblin_m_Standing Melee Attack 360 High_13086
+Goblin_m_Standing Melee Attack Backhand_12767
+Goblin_m_Standing Melee Combo Attack Ver. 2_13099
+Goblin_m_Standing React Large From Left_13128
+Goblin_m_Standing React Small From Right_13081
+Goblin_m_Standing Run Forward_12831
+Goblin_m_Standing To Crouch_12814
+Goblin_m_Standing To Crouched_13003
+Goblin_m_Standing Torch Idle 02_13528
+Goblin_m_Standing Torch Idle 02_13529
+Goblin_m_Standing Torch Idle 04_12899
+Goblin_m_Standing Torch Melee Attack 03_12423
+Goblin_m_Standing Torch Run Forward_13240
+Goblin_m_Standing Torch Turn Left 90_12478
+Goblin_m_Standing Turn Right 90_12863
+Goblin_m_Standing Walk Left_13436
+Goblin_m_Standing Yell_13322
+Goblin_m_Stroke Nodding_12555
+Goblin_m_Stunned_12570
+Goblin_m_Taking A Pill_12931
+Goblin_m_Troca 1_13203
+Goblin_m_Turn 90 Left_12825
+Goblin_m_Unarmed Turn Right 90_12891
+Goblin_m_Walk Right_13540
+Goblin_m_Wheelbarrow Walk_12591
+Goblin_m_Wheelbarrow Walk Turn_12893
+Goblin_m_Zombie Stand Up_13428
+Goblin_m_Box Turn_13186
+Goblin_m_Braced Hang Hop Up_13256
+Goblin_m_Catwalk Idle To Walk Forward_13164
+Goblin_m_Catwalk Walk Start Turn 180 Right_12532
+Goblin_m_Dancing Running Man_12719
+Goblin_m_Dancing Running Man_12720
+Goblin_m_Defeat Idle_12662
+Goblin_m_Drunk Idle_13141
+Goblin_m_Dual Weapon Combo_12695
+Goblin_m_Fall B Loop_13547
+Goblin_m_Female Standing Pose_13615
+Goblin_m_Freehang Drop_12737
+Goblin_m_Getting Thrown_12477
+Goblin_m_Injured Stumble Idle_13530
+Goblin_m_Injured Walk Left Turn_12850
+Goblin_m_Jumping_13051
+Goblin_m_Kick Up Soccerball_13252
+Goblin_m_Laying Mild Cough_13536
+Goblin_m_Leaning_13324
+Goblin_m_Male Action Pose_12364
+Goblin_m_Male Sitting Pose_13192
+Goblin_m_Male Standing Pose_12622
+Goblin_m_Medium Hit To Head_12967
+Goblin_m_Pistol Run Backward Arc_12436
+Goblin_m_Quick Steps_13311
+Goblin_m_Rifle Block_13065
+Goblin_m_Rifle Turn_13247
+Goblin_m_Standing 1H Magic Attack 01_13130
+Goblin_m_Standing Death Right 01_13043
+Goblin_m_Standing Disarm Underarm_12723
+Goblin_m_Standing Draw Arrow_12924
+Goblin_m_Standing Equip Bow_12640
+Goblin_m_Standing Idle 04_13400
+Goblin_m_Standing Melee Attack 360 High_13086
+Goblin_m_Standing React Large From Left_13128
+Goblin_m_Standing To Crouch_12814
+Goblin_m_Standing To Crouched_13003
+Goblin_m_Standing Torch Idle 02_13528
+Goblin_m_Standing Torch Idle 02_13529
+Goblin_m_Standing Torch Idle 04_12899
+Goblin_m_Standing Torch Melee Attack 03_12423
+Goblin_m_Standing Torch Turn Left 90_12478
+Goblin_m_Standing Yell_13322
+Goblin_m_Stroke Nodding_12555
+Goblin_m_Stunned_12570
+Goblin_m_Turn 90 Left_12825
+Goblin_m_Unarmed Turn Right 90_12891
+Goblin_m_Wheelbarrow Walk Turn_12893
+Goblin_m_Zombie Stand Up_13428
+Mousey_m_Braced Hang Hop Up_39611
+Mousey_m_Catwalk Idle To Walk Forward_39480
+Mousey_m_Catwalk Walk_39420
+Mousey_m_Catwalk Walk_39421
+Mousey_m_Catwalk Walk_39422
+Mousey_m_Catwalk Walk Start Turn 180 Right_38446
+Mousey_m_Combo Punch_39527
+Mousey_m_Defeat Idle_38649
+Mousey_m_Drunk Idle_39433
+Mousey_m_Dual Weapon Combo_38694
+Mousey_m_End Plank_39589
+Mousey_m_Fall B Loop_40085
+Mousey_m_Female Standing Pose_40209
+Mousey_m_Football Stance_38430
+Mousey_m_Freehang Drop_38769
+Mousey_m_Getting Thrown_38352
+Mousey_m_Hit On Legs_39465
+Mousey_m_Injured Stumble Idle_40057
+Mousey_m_Laying Idle_39496
+Mousey_m_Laying Idle_39497
+Mousey_m_Laying Mild Cough_40063
+Mousey_m_Leaning_39716
+Mousey_m_Male Action Pose_38170
+Mousey_m_Male Sitting Pose_39519
+Mousey_m_Male Standing Pose_38586
+Mousey_m_Medium Hit To Head_39147
+Mousey_m_Open Door Outwards_39388
+Mousey_m_Pistol Run Backward Arc_38281
+Mousey_m_Quick Steps_39696
+Mousey_m_Ready Idle_38696
+Mousey_m_Rifle Block_39321
+Mousey_m_Rifle Turn_39600
+Mousey_m_Run Arc Left_39691
+Mousey_m_Short Right Side Step_39204
+Mousey_m_Sitting Drinking_40165
+Mousey_m_Sitting Drinking_40166
+Mousey_m_Sitting Drinking_40167
+Mousey_m_Standing 1H Magic Attack 01_39417
+Mousey_m_Standing Death Right 01_39266
+Mousey_m_Standing Disarm Underarm_38741
+Mousey_m_Standing Draw Arrow_39050
+Mousey_m_Standing Idle 04_39853
+Mousey_m_Standing Melee Attack 360 High_39355
+Mousey_m_Standing Melee Combo Attack Ver. 2_39374
+Mousey_m_Standing React Large From Left_39415
+Mousey_m_Standing React Small From Right_39346
+Mousey_m_Standing To Crouch_38889
+Mousey_m_Standing To Crouched_39200
+Mousey_m_Standing Torch Idle 02_40054
+Mousey_m_Standing Torch Idle 02_40055
+Mousey_m_Standing Torch Idle 04_39023
+Mousey_m_Standing Torch Turn Left 90_38353
+Mousey_m_Standing Turn Right 90_38968
+Mousey_m_Stroke Nodding_38482
+Mousey_m_Stunned_38502
+Mousey_m_Taking A Pill_39060
+Mousey_m_Troca 1_39546
+Mousey_m_Turn 90 Left_38908
+Mousey_m_Unarmed Turn Right 90_39013
+Mousey_m_Wheelbarrow Walk Turn_39016
+Mousey_m_Zombie Stand Up_39913
+Mousey_m_Braced Hang Hop Up_39611
+Mousey_m_Catwalk Idle To Walk Forward_39480
+Mousey_m_Catwalk Walk Start Turn 180 Right_38446
+Mousey_m_Combo Punch_39527
+Mousey_m_Defeat Idle_38649
+Mousey_m_Disappointed_38904
+Mousey_m_Drunk Idle_39433
+Mousey_m_Dual Weapon Combo_38694
+Mousey_m_End Plank_39589
+Mousey_m_Female Standing Pose_40209
+Mousey_m_Freehang Drop_38769
+Mousey_m_Getting Thrown_38352
+Mousey_m_Hit On Legs_39465
+Mousey_m_Injured Stumble Idle_40057
+Mousey_m_Laying Idle_39496
+Mousey_m_Laying Idle_39497
+Mousey_m_Laying Mild Cough_40063
+Mousey_m_Leaning_39716
+Mousey_m_Male Action Pose_38170
+Mousey_m_Male Sitting Pose_39519
+Mousey_m_Male Standing Pose_38586
+Mousey_m_Medium Hit To Head_39147
+Mousey_m_Open Door Outwards_39388
+Mousey_m_Pistol Run Backward Arc_38281
+Mousey_m_Pistol Walk Backward Arc_38726
+Mousey_m_Quick Steps_39696
+Mousey_m_Ready Idle_38696
+Mousey_m_Rejected_40151
+Mousey_m_Rifle Block_39321
+Mousey_m_Rifle Turn_39600
+Mousey_m_Run Arc Left_39691
+Mousey_m_Short Right Side Step_39204
+Mousey_m_Sitting Drinking_40165
+Mousey_m_Sitting Drinking_40166
+Mousey_m_Sitting Drinking_40167
+Mousey_m_Standing 1H Magic Attack 01_39417
+Mousey_m_Standing Death Right 01_39266
+Mousey_m_Standing Disarm Underarm_38741
+Mousey_m_Standing Draw Arrow_39050
+Mousey_m_Standing Idle 04_39853
+Mousey_m_Standing Land To Standing Idle_38699
+Mousey_m_Standing Melee Attack 360 High_39355
+Mousey_m_Standing Melee Combo Attack Ver. 2_39374
+Mousey_m_Standing React Large From Left_39415
+Mousey_m_Standing React Small From Right_39346
+Mousey_m_Standing To Crouch_38889
+Mousey_m_Standing To Crouched_39200
+Mousey_m_Standing Torch Idle 02_40054
+Mousey_m_Standing Torch Idle 02_40055
+Mousey_m_Standing Torch Idle 04_39023
+Mousey_m_Standing Torch Turn Left 90_38353
+Mousey_m_Standing Turn Right 90_38968
+Mousey_m_Stroke Nodding_38482
+Mousey_m_Stunned_38502
+Mousey_m_Taking A Pill_39060
+Mousey_m_Troca 1_39546
+Mousey_m_Turn 90 Left_38908
+Mousey_m_Unarmed Turn Right 90_39013
+Mousey_m_Wheelbarrow Walk Turn_39016
+Mousey_m_Zombie Stand Up_39913
+Mousey_m_Baseball Pitching_39172
+Mousey_m_Body Jab Cross_38706
+Mousey_m_Braced Hang Hop Up_39611
+Mousey_m_Catwalk Idle To Walk Forward_39480
+Mousey_m_Catwalk Twist R To Walk 180_38459
+Mousey_m_Catwalk Walk Forward Arc 90L_40132
+Mousey_m_Catwalk Walk Start Turn 180 Right_38446
+Mousey_m_Defeat Idle_38649
+Mousey_m_Defeat Idle(1)_38762
+Mousey_m_Drunk Idle_39433
+Mousey_m_Dual Weapon Combo_38694
+Mousey_m_Fall B Loop_40085
+Mousey_m_Female Standing Pose_40209
+Mousey_m_Freehang Drop_38769
+Mousey_m_Getting Thrown_38352
+Mousey_m_Golf Post Shot_39207
+Mousey_m_Golf Post Shot_39208
+Mousey_m_Golf Putt Victory_39316
+Mousey_m_Golf Putt Victory_39317
+Mousey_m_Great Sword Idle_40047
+Mousey_m_Illegal Elbow Punch_38464
+Mousey_m_Injured Stumble Idle_40057
+Mousey_m_Jazz Dancing_38399
+Mousey_m_Jump To Freehang_38589
+Mousey_m_Laying Mild Cough_40063
+Mousey_m_Leaning_39716
+Mousey_m_Male Action Pose_38170
+Mousey_m_Male Sitting Pose_39519
+Mousey_m_Male Sitting Pose(1)_39144
+Mousey_m_Male Sitting Pose(2)_38338
+Mousey_m_Male Standing Pose_38586
+Mousey_m_Male Standing Pose(1)_39554
+Mousey_m_Medium Hit To Head_39147
+Mousey_m_Pick Fruit_38998
+Mousey_m_Pistol Run Backward Arc_38281
+Mousey_m_Pistol Walk Backward Arc_38726
+Mousey_m_Pointing_40128
+Mousey_m_Praying_39887
+Mousey_m_Pull Plant_40093
+Mousey_m_Push Start_39195
+Mousey_m_Quick Steps_39696
+Mousey_m_Rejected_40151
+Mousey_m_Rifle Block_39321
+Mousey_m_Rifle Turn_39600
+Mousey_m_Running_38646
+Mousey_m_Stand To Freehang_39930
+Mousey_m_Standing 1H Magic Attack 01_39417
+Mousey_m_Standing Death Right 01_39266
+Mousey_m_Standing Disarm Underarm_38741
+Mousey_m_Standing Draw Arrow_39050
+Mousey_m_Standing Idle 04_39853
+Mousey_m_Standing Land To Standing Idle_38699
+Mousey_m_Standing Melee Attack 360 High_39355
+Mousey_m_Standing React Large From Left_39415
+Mousey_m_Standing React Large From Left(1)_38437
+Mousey_m_Standing To Crouch_38889
+Mousey_m_Standing To Crouched_39200
+Mousey_m_Standing Torch Idle 02_40054
+Mousey_m_Standing Torch Idle 02_40055
+Mousey_m_Standing Torch Idle 04_39023
+Mousey_m_Standing Torch Turn Left 90_38353
+Mousey_m_Stroke Nodding_38482
+Mousey_m_Stunned_38502
+Mousey_m_Taunt Gesture_39232
+Mousey_m_Turn 90 Left_38908
+Mousey_m_Unarmed Turn Right 90_39013
+Mousey_m_Wheelbarrow Walk Turn_39016
+Mousey_m_Zombie Stand Up_39913
+Mremireh_m_Baseball Pitching_42215
+Mremireh_m_Box Turn_42413
+Mremireh_m_Braced Hang Hop Up_42485
+Mremireh_m_Braced Hang Shimmy_42559
+Mremireh_m_Catwalk Idle To Walk Forward_42392
+Mremireh_m_Catwalk Twist R To Walk 180_41753
+Mremireh_m_Catwalk Walk Forward Arc 90L_42816
+Mremireh_m_Catwalk Walk Start Turn 180 Right_41744
+Mremireh_m_Climbing Up Wall_42651
+Mremireh_m_Combo Punch_42425
+Mremireh_m_Crouched Sneaking Left_42556
+Mremireh_m_Dancing Running Man_41931
+Mremireh_m_Dancing Running Man_41932
+Mremireh_m_Defeat Idle_41875
+Mremireh_m_Drunk Idle_42369
+Mremireh_m_Drunk Run Forward_42558
+Mremireh_m_Dual Weapon Combo_41906
+Mremireh_m_End Plank_42463
+Mremireh_m_Female Standing Pose_42854
+Mremireh_m_Fist Pump_42756
+Mremireh_m_Freehang Drop_41949
+Mremireh_m_Getting Thrown_41691
+Mremireh_m_Getting Up_42730
+Mremireh_m_Getting Up_42731
+Mremireh_m_Golf Post Shot_42237
+Mremireh_m_Golf Post Shot_42238
+Mremireh_m_Golf Putt Victory_42291
+Mremireh_m_Golf Putt Victory_42292
+Mremireh_m_Great Sword Idle_42761
+Mremireh_m_Hit On Legs_42387
+Mremireh_m_Hit Reaction_41991
+Mremireh_m_Holding Walk_41765
+Mremireh_m_Illegal Elbow Punch_41756
+Mremireh_m_Injured Run_41768
+Mremireh_m_Injured Run Jump_41742
+Mremireh_m_Injured Stumble Idle_42767
+Mremireh_m_Jazz Dancing_41720
+Mremireh_m_Jumping_42282
+Mremireh_m_Kick Up Soccerball_42481
+Mremireh_m_Laying Idle_42399
+Mremireh_m_Laying Idle_42400
+Mremireh_m_Laying Mild Cough_42773
+Mremireh_m_Leaning_42551
+Mremireh_m_Male Action Pose_41572
+Mremireh_m_Male Sitting Pose_42419
+Mremireh_m_Male Standing Pose_41834
+Mremireh_m_Medium Hit To Head_42199
+Mremireh_m_Military Signaling_42824
+Mremireh_m_Open Door Outwards_42344
+Mremireh_m_Pick Fruit_42115
+Mremireh_m_Pistol Run_41770
+Mremireh_m_Pistol Run Backward Arc_41646
+Mremireh_m_Pistol Strafe_41967
+Mremireh_m_Pointing_42813
+Mremireh_m_Praying_42647
+Mremireh_m_Pull Plant_42790
+Mremireh_m_Quick Steps_42539
+Mremireh_m_Ready Idle_41909
+Mremireh_m_Rifle Block_42294
+Mremireh_m_Rifle Turn_42472
+Mremireh_m_Run Arc Left_42535
+Mremireh_m_Running_41874
+Mremireh_m_Scary Clown Walk_42100
+Mremireh_m_Short Right Side Step_42236
+Mremireh_m_Sitting Drinking_42835
+Mremireh_m_Sitting Drinking_42836
+Mremireh_m_Sitting Drinking_42837
+Mremireh_m_Sitting Yell_42629
+Mremireh_m_Sprint Backward Right_42415
+Mremireh_m_Sprint Left_42377
+Mremireh_m_Standing 1H Magic Attack 01_42361
+Mremireh_m_Standing Death Right 01_42273
+Mremireh_m_Standing Disarm Underarm_41935
+Mremireh_m_Standing Draw Arrow_42153
+Mremireh_m_Standing Equip Bow_41853
+Mremireh_m_Standing Idle 04_42630
+Mremireh_m_Standing Melee Attack 360 High_42316
+Mremireh_m_Standing Melee Attack Backhand_41981
+Mremireh_m_Standing Melee Combo Attack Ver. 2_42329
+Mremireh_m_Standing React Large From Left_42359
+Mremireh_m_Standing React Small From Right_42311
+Mremireh_m_Standing Run Forward_42057
+Mremireh_m_Standing To Crouch_42028
+Mremireh_m_Standing To Crouched_42233
+Mremireh_m_Standing Torch Idle 02_42765
+Mremireh_m_Standing Torch Idle 02_42766
+Mremireh_m_Standing Torch Idle 04_42130
+Mremireh_m_Standing Torch Melee Attack 03_41633
+Mremireh_m_Standing Torch Run Forward_42465
+Mremireh_m_Standing Torch Turn Left 90_41692
+Mremireh_m_Standing Turn Right 90_42092
+Mremireh_m_Standing Walk Left_42672
+Mremireh_m_Standing Yell_42549
+Mremireh_m_Stroke Nodding_41767
+Mremireh_m_Stunned_41783
+Mremireh_m_Taking A Pill_42160
+Mremireh_m_Troca 1_42430
+Mremireh_m_Turn 90 Left_42044
+Mremireh_m_Unarmed Turn Right 90_42122
+Mremireh_m_Walk Right_42777
+Mremireh_m_Wheelbarrow Walk_41805
+Mremireh_m_Wheelbarrow Walk Turn_42124
+Mremireh_m_Zombie Stand Up_42663
+Mremireh_m_Braced Hang Hop Up_42485
+Mremireh_m_Catwalk Idle To Walk Forward_42392
+Mremireh_m_Catwalk Walk Start Turn 180 Right_41744
+Mremireh_m_Combo Punch_42425
+Mremireh_m_Defeat Idle_41875
+Mremireh_m_Disappointed_42041
+Mremireh_m_Drunk Idle_42369
+Mremireh_m_Dual Weapon Combo_41906
+Mremireh_m_End Plank_42463
+Mremireh_m_Female Standing Pose_42854
+Mremireh_m_Freehang Drop_41949
+Mremireh_m_Getting Thrown_41691
+Mremireh_m_Hit On Legs_42387
+Mremireh_m_Injured Stumble Idle_42767
+Mremireh_m_Laying Idle_42399
+Mremireh_m_Laying Idle_42400
+Mremireh_m_Laying Mild Cough_42773
+Mremireh_m_Leaning_42551
+Mremireh_m_Male Action Pose_41572
+Mremireh_m_Male Sitting Pose_42419
+Mremireh_m_Male Standing Pose_41834
+Mremireh_m_Medium Hit To Head_42199
+Mremireh_m_Open Door Outwards_42344
+Mremireh_m_Pistol Run Backward Arc_41646
+Mremireh_m_Pistol Walk Backward Arc_41929
+Mremireh_m_Quick Steps_42539
+Mremireh_m_Ready Idle_41909
+Mremireh_m_Rejected_42831
+Mremireh_m_Rifle Block_42294
+Mremireh_m_Rifle Turn_42472
+Mremireh_m_Run Arc Left_42535
+Mremireh_m_Short Right Side Step_42236
+Mremireh_m_Sitting Drinking_42835
+Mremireh_m_Sitting Drinking_42836
+Mremireh_m_Sitting Drinking_42837
+Mremireh_m_Standing 1H Magic Attack 01_42361
+Mremireh_m_Standing Death Right 01_42273
+Mremireh_m_Standing Disarm Underarm_41935
+Mremireh_m_Standing Draw Arrow_42153
+Mremireh_m_Standing Idle 04_42630
+Mremireh_m_Standing Land To Standing Idle_41913
+Mremireh_m_Standing Melee Attack 360 High_42316
+Mremireh_m_Standing Melee Combo Attack Ver. 2_42329
+Mremireh_m_Standing React Large From Left_42359
+Mremireh_m_Standing React Small From Right_42311
+Mremireh_m_Standing To Crouch_42028
+Mremireh_m_Standing To Crouched_42233
+Mremireh_m_Standing Torch Idle 02_42765
+Mremireh_m_Standing Torch Idle 02_42766
+Mremireh_m_Standing Torch Idle 04_42130
+Mremireh_m_Standing Torch Turn Left 90_41692
+Mremireh_m_Standing Turn Right 90_42092
+Mremireh_m_Stroke Nodding_41767
+Mremireh_m_Stunned_41783
+Mremireh_m_Taking A Pill_42160
+Mremireh_m_Troca 1_42430
+Mremireh_m_Turn 90 Left_42044
+Mremireh_m_Unarmed Turn Right 90_42122
+Mremireh_m_Wheelbarrow Walk Turn_42124
+Mremireh_m_Zombie Stand Up_42663
+Mremireh_m_Box Turn_42413
+Mremireh_m_Braced Hang Hop Up_42485
+Mremireh_m_Catwalk Idle To Walk Forward_42392
+Mremireh_m_Catwalk Walk Start Turn 180 Right_41744
+Mremireh_m_Dancing Running Man_41931
+Mremireh_m_Dancing Running Man_41932
+Mremireh_m_Defeat Idle_41875
+Mremireh_m_Drunk Idle_42369
+Mremireh_m_Dual Weapon Combo_41906
+Mremireh_m_Female Standing Pose_42854
+Mremireh_m_Freehang Drop_41949
+Mremireh_m_Getting Thrown_41691
+Mremireh_m_Injured Stumble Idle_42767
+Mremireh_m_Jumping_42282
+Mremireh_m_Kick Up Soccerball_42481
+Mremireh_m_Laying Mild Cough_42773
+Mremireh_m_Leaning_42551
+Mremireh_m_Male Action Pose_41572
+Mremireh_m_Male Sitting Pose_42419
+Mremireh_m_Male Standing Pose_41834
+Mremireh_m_Medium Hit To Head_42199
+Mremireh_m_Pistol Run Backward Arc_41646
+Mremireh_m_Pistol Walk Backward Arc_41929
+Mremireh_m_Quick Steps_42539
+Mremireh_m_Rejected_42831
+Mremireh_m_Rifle Block_42294
+Mremireh_m_Rifle Turn_42472
+Mremireh_m_Standing 1H Magic Attack 01_42361
+Mremireh_m_Standing Death Right 01_42273
+Mremireh_m_Standing Disarm Underarm_41935
+Mremireh_m_Standing Draw Arrow_42153
+Mremireh_m_Standing Equip Bow_41853
+Mremireh_m_Standing Idle 04_42630
+Mremireh_m_Standing Land To Standing Idle_41913
+Mremireh_m_Standing Melee Attack 360 High_42316
+Mremireh_m_Standing React Large From Left_42359
+Mremireh_m_Standing To Crouch_42028
+Mremireh_m_Standing To Crouched_42233
+Mremireh_m_Standing Torch Idle 02_42765
+Mremireh_m_Standing Torch Idle 02_42766
+Mremireh_m_Standing Torch Idle 04_42130
+Mremireh_m_Standing Torch Melee Attack 03_41633
+Mremireh_m_Standing Torch Turn Left 90_41692
+Mremireh_m_Standing Yell_42549
+Mremireh_m_Stroke Nodding_41767
+Mremireh_m_Stunned_41783
+Mremireh_m_Turn 90 Left_42044
+Mremireh_m_Unarmed Turn Right 90_42122
+Mremireh_m_Wheelbarrow Walk Turn_42124
+Mremireh_m_Zombie Stand Up_42663
+Vampire_m_Box Turn_76448
+Vampire_m_Braced Hang Hop Up_76526
+Vampire_m_Catwalk Idle To Walk Forward_76421
+Vampire_m_Catwalk Walk Start Turn 180 Right_75680
+Vampire_m_Dancing Running Man_75890
+Vampire_m_Dancing Running Man_75891
+Vampire_m_Defeat Idle_75827
+Vampire_m_Drunk Idle_76395
+Vampire_m_Dual Weapon Combo_75856
+Vampire_m_Fall B Loop_76878
+Vampire_m_Female Standing Pose_76961
+Vampire_m_Freehang Drop_75916
+Vampire_m_Getting Thrown_75607
+Vampire_m_Injured Stumble Idle_76849
+Vampire_m_Injured Walk Left Turn_76045
+Vampire_m_Jumping_76287
+Vampire_m_Kick Up Soccerball_76521
+Vampire_m_Laying Mild Cough_76856
+Vampire_m_Leaning_76618
+Vampire_m_Male Action Pose_75463
+Vampire_m_Male Sitting Pose_76453
+Vampire_m_Male Standing Pose_75782
+Vampire_m_Medium Hit To Head_76196
+Vampire_m_Pistol Run Backward Arc_75545
+Vampire_m_Quick Steps_76598
+Vampire_m_Rifle Block_76310
+Vampire_m_Rifle Turn_76514
+Vampire_m_Standing 1H Magic Attack 01_76386
+Vampire_m_Standing Death Right 01_76275
+Vampire_m_Standing Disarm Underarm_75899
+Vampire_m_Standing Draw Arrow_76129
+Vampire_m_Standing Equip Bow_75798
+Vampire_m_Standing Idle 04_76698
+Vampire_m_Standing Melee Attack 360 High_76336
+Vampire_m_Standing React Large From Left_76384
+Vampire_m_Standing To Crouch_76001
+Vampire_m_Standing To Crouched_76228
+Vampire_m_Standing Torch Idle 02_76846
+Vampire_m_Standing Torch Idle 02_76847
+Vampire_m_Standing Torch Idle 04_76105
+Vampire_m_Standing Torch Melee Attack 03_75533
+Vampire_m_Standing Torch Turn Left 90_75608
+Vampire_m_Standing Yell_76614
+Vampire_m_Stroke Nodding_75708
+Vampire_m_Stunned_75724
+Vampire_m_Turn 90 Left_76014
+Vampire_m_Unarmed Turn Right 90_76096
+Vampire_m_Wheelbarrow Walk Turn_76098
+Vampire_m_Zombie Stand Up_76741
+Vampire_m_Baseball Pitching_76214
+Vampire_m_Body Jab Cross_75867
+Vampire_m_Braced Hang Hop Up_76526
+Vampire_m_Catwalk Idle To Walk Forward_76421
+Vampire_m_Catwalk Twist R To Walk 180_75688
+Vampire_m_Catwalk Walk Forward Arc 90L_76909
+Vampire_m_Catwalk Walk Start Turn 180 Right_75680
+Vampire_m_Defeat Idle_75827
+Vampire_m_Defeat Idle(1)_75910
+Vampire_m_Drunk Idle_76395
+Vampire_m_Dual Weapon Combo_75856
+Vampire_m_Fall B Loop_76878
+Vampire_m_Female Standing Pose_76961
+Vampire_m_Freehang Drop_75916
+Vampire_m_Getting Thrown_75607
+Vampire_m_Golf Post Shot_76235
+Vampire_m_Golf Post Shot_76236
+Vampire_m_Golf Putt Victory_76303
+Vampire_m_Golf Putt Victory_76304
+Vampire_m_Great Sword Idle_76841
+Vampire_m_Illegal Elbow Punch_75691
+Vampire_m_Injured Stumble Idle_76849
+Vampire_m_Jazz Dancing_75644
+Vampire_m_Jump To Freehang_75784
+Vampire_m_Laying Mild Cough_76856
+Vampire_m_Leaning_76618
+Vampire_m_Male Action Pose_75463
+Vampire_m_Male Sitting Pose_76453
+Vampire_m_Male Sitting Pose(1)_76194
+Vampire_m_Male Sitting Pose(2)_75591
+Vampire_m_Male Standing Pose_75782
+Vampire_m_Male Standing Pose(1)_76478
+Vampire_m_Medium Hit To Head_76196
+Vampire_m_Pick Fruit_76083
+Vampire_m_Pistol Run Backward Arc_75545
+Vampire_m_Pistol Walk Backward Arc_75884
+Vampire_m_Pointing_76907
+Vampire_m_Praying_76721
+Vampire_m_Pull Plant_76885
+Vampire_m_Push Start_76225
+Vampire_m_Quick Steps_76598
+Vampire_m_Rejected_76926
+Vampire_m_Rifle Block_76310
+Vampire_m_Rifle Turn_76514
+Vampire_m_Running_75825
+Vampire_m_Stand To Freehang_76755
+Vampire_m_Standing 1H Magic Attack 01_76386
+Vampire_m_Standing Death Right 01_76275
+Vampire_m_Standing Disarm Underarm_75899
+Vampire_m_Standing Draw Arrow_76129
+Vampire_m_Standing Idle 04_76698
+Vampire_m_Standing Land To Standing Idle_75862
+Vampire_m_Standing Melee Attack 360 High_76336
+Vampire_m_Standing React Large From Left_76384
+Vampire_m_Standing React Large From Left(1)_75673
+Vampire_m_Standing To Crouch_76001
+Vampire_m_Standing To Crouched_76228
+Vampire_m_Standing Torch Idle 02_76846
+Vampire_m_Standing Torch Idle 02_76847
+Vampire_m_Standing Torch Idle 04_76105
+Vampire_m_Standing Torch Turn Left 90_75608
+Vampire_m_Stroke Nodding_75708
+Vampire_m_Stunned_75724
+Vampire_m_Taunt Gesture_76253
+Vampire_m_Turn 90 Left_76014
+Vampire_m_Unarmed Turn Right 90_76096
+Vampire_m_Wheelbarrow Walk Turn_76098
+Vampire_m_Zombie Stand Up_76741
+Vampire_m_Box Turn_76448
+Vampire_m_Braced Hang Hop Up_76526
+Vampire_m_Catwalk Idle To Walk Forward_76421
+Vampire_m_Catwalk Walk Start Turn 180 Right_75680
+Vampire_m_Dancing Running Man_75890
+Vampire_m_Dancing Running Man_75891
+Vampire_m_Defeat Idle_75827
+Vampire_m_Drunk Idle_76395
+Vampire_m_Dual Weapon Combo_75856
+Vampire_m_Female Standing Pose_76961
+Vampire_m_Freehang Drop_75916
+Vampire_m_Getting Thrown_75607
+Vampire_m_Injured Stumble Idle_76849
+Vampire_m_Jumping_76287
+Vampire_m_Kick Up Soccerball_76521
+Vampire_m_Laying Mild Cough_76856
+Vampire_m_Leaning_76618
+Vampire_m_Male Action Pose_75463
+Vampire_m_Male Sitting Pose_76453
+Vampire_m_Male Standing Pose_75782
+Vampire_m_Medium Hit To Head_76196
+Vampire_m_Pistol Run Backward Arc_75545
+Vampire_m_Pistol Walk Backward Arc_75884
+Vampire_m_Quick Steps_76598
+Vampire_m_Rejected_76926
+Vampire_m_Rifle Block_76310
+Vampire_m_Rifle Turn_76514
+Vampire_m_Standing 1H Magic Attack 01_76386
+Vampire_m_Standing Death Right 01_76275
+Vampire_m_Standing Disarm Underarm_75899
+Vampire_m_Standing Draw Arrow_76129
+Vampire_m_Standing Equip Bow_75798
+Vampire_m_Standing Idle 04_76698
+Vampire_m_Standing Land To Standing Idle_75862
+Vampire_m_Standing Melee Attack 360 High_76336
+Vampire_m_Standing React Large From Left_76384
+Vampire_m_Standing To Crouch_76001
+Vampire_m_Standing To Crouched_76228
+Vampire_m_Standing Torch Idle 02_76846
+Vampire_m_Standing Torch Idle 02_76847
+Vampire_m_Standing Torch Idle 04_76105
+Vampire_m_Standing Torch Melee Attack 03_75533
+Vampire_m_Standing Torch Turn Left 90_75608
+Vampire_m_Standing Yell_76614
+Vampire_m_Stroke Nodding_75708
+Vampire_m_Stunned_75724
+Vampire_m_Turn 90 Left_76014
+Vampire_m_Unarmed Turn Right 90_76096
+Vampire_m_Wheelbarrow Walk Turn_76098
+Vampire_m_Zombie Stand Up_76741

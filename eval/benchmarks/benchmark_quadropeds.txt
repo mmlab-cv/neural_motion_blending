@@ -1,0 +1,14 @@
+Coyote
+Gazelle
+Goat
+Hamster
+Hippopotamus
+Hound
+Lynx
+PolarBear
+PolarBearB
+Puppy
+Raindeer
+Skunk
+Stego
+Tricera

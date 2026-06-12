@@ -1,0 +1,39 @@
+# --- Project Specific Customizations ---
+external/
+save/
+dataset/
+wandb/
+bench/
+mixamo/
+inspect/
+
+# --- Python Cache and Compiled Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Virtual Environments ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Environment Variables (Security) ---
+.env
+.flaskenv
+
+# --- Distribution / Packaging ---
+dist/
+build/
+*.egg-info/
+nosetests.xml
+coverage.xml
+.coverage
+
+# --- OS / IDE Specific ---
+.DS_Store
+.vscode/
+.idea/
