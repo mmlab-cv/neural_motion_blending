@@ -36,10 +36,10 @@ const publication: Publication = {
   venue: "CGI • Computer Graphics International",
   year:  "2026",
 
-  paper:         COMING_SOON,
+  paper:         "/media/Luca_Cazzola-Neural_Motion_Blending-Paper.pdf",
   pdf:           undefined,
   code:          "https://github.com/mmlab-cv/neural_motion_blending",
-  supplementary: COMING_SOON,
+  supplementary: "/media/Luca_Cazzola-Neural_Motion_Blending-Supplementary.zip",
 
   siteUrl: "https://github.com/mmlab-cv",
   siteLabel: "← Check out other MMLab works!",
