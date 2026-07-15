@@ -36,7 +36,7 @@ const publication: Publication = {
   venue: "CGI • Computer Graphics International",
   year:  "2026",
 
-  paper:         "/media/Luca_Cazzola-Neural_Motion_Blending-Paper.pdf",
+  paper:         "https://arxiv.org/abs/2607.10370",
   pdf:           undefined,
   code:          "https://github.com/mmlab-cv/neural_motion_blending",
   supplementary: "/media/Luca_Cazzola-Neural_Motion_Blending-Supplementary.zip",
