@@ -1,33 +1,39 @@
-# TrueBones evaluation:
+# 📊 Evaluation
 
-## Environment Setup:
-Install dependencies using conda and pip:
+Assumes the Truebones dataset is already processed (see [docs/DATA.md](../docs/DATA.md)).
+
+## 🧮 Motion-blending quality (`eval_truebones_blend.py`)
+
+Evaluates `sample/mix.py` / `sample/nla_blend.py` outputs against GT — fidelity, diversity and
+smoothness of each blend zone (pre / transition / post):
+
+```bash
+python -m eval.eval_truebones_blend \
+    --eval_gen_dir <path/to/mix_output> \
+    --eval_gt_dir  dataset/truebones/zoo/truebones_processed/bvhs \
+    --source bvh --feats loc --root_relative
 ```
-conda install -c conda-forge eigen
-pip install git+https://github.com/PeizhuoLi/ganimator-eval-kernel.git
-pip install pytorch3d
+
+Results (mean/std/median per metric, split into `ALL`/`IN_SKEL`/`X_SKEL`) are written next to
+`--eval_gen_dir`. Pass `--ref_samples`/`--tgt_samples` (the same pair-list files used to generate
+the blends) to prioritize relevant GT clips.
+
+## 📈 Latent-space FID (`fid_truebones_blend.py`)
+
+FID between generated and GT motion in the MoDiffAE semantic latent space:
+
+```bash
+python -m eval.fid_truebones_blend \
+    --eval_gen_dir <path/to/mix_output> \
+    --eval_gt_dir  dataset/truebones/zoo/truebones_processed \
+    --model_path   save/truebones_globpool/model000449998.pt \
+    --source npy --gen_frames transition --gt_mode both --gt_window_size 2.0
 ```
 
-## Running the Evaluation
-```
-python -m --seed <seed> eval.eval_truebones --eval_gt_dir <gt_motion_dir> --eval_gen_dir <generated_motion_dir> --benchmark_path <benchmark_path> --unique_str <output_fname_suffix>
+## 🎯 Benchmark pairs
 
-```
-To reproduce the evaluation results reported in Tables 3 and 8, follow these steps:
-Generate 20 samples, each 120 frames long, for every benchmark skeleton you plan to evaluate (see eval/benchmarks for the model-specific skeleton lists). Place all generated .npy files in a single directory named _gen_motion_dir_. Do not change the default generation seed.
-Run the evaluation command with seed=10.
-Note: For technical reasons, the models we’ve released are not identical to those evaluated in the paper, but they achieve comparable results.
-
-### Arguments Description
-* `--seed` To evaluate using different seeds. Default value is 10. 
-* `--eval_gt_dir` Path to the ground truth motions directory (NumPy .npy files). Default value is dataset/truebones/zoo/truebones_processed/motions/.
-* `--eval_gen_dir` Path to the directory containing generated motions (NumPy .npy files).
-Note: To reproduce paper results, each character in the benchmark should have 20 motions, each 120 frames long.
-* `--benchmark_path` Path to a text file listing character names to evaluate.
-For the full AnyToP benchmark, use: eval/benchmarks/benchmark_all.txt. For specific subsets, use: eval/benchmarks/benchmark_<subset>.txt, 
-where <subset> is one of: bipeds, quadropeds, millipeds_snakes, or flying.
-* `--unique_str` (Optional) A custom suffix added to the evaluation results filename.
-The results will be saved as eval_npy_mode_npy_loc_<unique_str>.log in the parent directory of eval_gen_dir. It's recommended to set a unique suffix (e.g., based on seed or experiment name) to avoid overwriting results from previous runs.
-
-
-
+Use the `ref.txt`/`tgt.txt` clip-pair lists already provided in `eval/benchmarks/blend/` — e.g.
+`eval/benchmarks/blend/in_skel/walk_run/` (same-character pairs) or
+`eval/benchmarks/blend/x_skel/walk_run/` (cross-character pairs). Pass these directly to
+`sample/mix.py` via `--ref_samples`/`--tgt_samples`, and to `eval_truebones_blend.py` /
+`fid_truebones_blend.py` the same way.
